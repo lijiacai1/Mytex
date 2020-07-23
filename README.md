@@ -1,2 +1,0 @@
-# Mytex
-text
